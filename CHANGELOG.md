@@ -1,3 +1,23 @@
+# v1.2.7 (2019-09-05)
+
+* All crypto JAR regexes updated to keep things consistent
+
+# v1.2.6 (2019-09-05)
+
+* Regex gruop removed, as full path to crypto JAR file is expected
+
+# v1.2.5 (2019-09-05)
+
+* Crypto JAR regex fine-tuning
+
+# v1.2.4 (2019-09-05)
+
+* Regex responsible for crypto JAR extraction updated to address AEM 6.1 regression
+
+# v1.2.3 (2019-09-04)
+
+* Logging bugfix - incorrect reference to local variable
+
 # v1.2.2 (2019-08-08)
 
 * [#75](https://github.com/jwadolowski/cookbook-cq/pull/76) OSGi component validation fix
